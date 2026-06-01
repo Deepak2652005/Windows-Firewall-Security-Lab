@@ -2,6 +2,15 @@
 Hands-on Windows Firewall security lab demonstrating rule creation, traffic filtering, and defensive security analysis using PowerShell.
 # Windows Firewall Security Lab
 
+## Table of Contents
+
+- [Skills Demonstrated](#skills-demonstrated)
+- [Lab Environment](#lab-environment)
+- [Screenshots](#screenshots)
+- [Security Analysis](#security-analysis)
+- [MITRE ATTCK Relevance](#mitre-attck-relevance)
+- [Key Learnings](#key-learnings)
+
 ## Objective
 
 This project demonstrates how Windows Firewall rules can be configured, tested, and analyzed in a controlled lab environment to understand host-based security controls, network filtering, and defensive security operations.
