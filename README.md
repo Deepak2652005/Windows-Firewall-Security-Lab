@@ -4,14 +4,8 @@
 Hands-on Windows Firewall security lab demonstrating rule creation, traffic filtering, and defensive security analysis using PowerShell.
 # Windows Firewall Security Lab
 
-## Table of Contents
 
-- [Skills Demonstrated](#skills-demonstrated)
-- [Lab Environment](#lab-environment)
-- [Screenshots](#screenshots)
-- [Security Analysis](#security-analysis)
-- [MITRE ATTCK Relevance](#mitre-attck-relevance)
-- [Key Learnings](#key-learnings)
+
 
 ## Objective
 
@@ -25,7 +19,16 @@ The lab focuses on:
 * Monitoring firewall behavior
 * Understanding how endpoint firewalls reduce attack surface
 
----
+
+## Table of Contents
+
+- [Skills Demonstrated](#skills-demonstrated)
+- [Lab Environment](#lab-environment)
+- [Screenshots](#screenshots)
+- [Security Analysis](#security-analysis)
+- [MITRE ATTCK Relevance](#mitre-attck-relevance)
+- [Key Learnings](#key-learnings)
+- [Future Improvements](#future-improvements)
 
 # Skills Demonstrated
 
